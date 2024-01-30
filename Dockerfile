@@ -1,4 +1,4 @@
-FROM node:20-buster-slim
+FROM node:16-buster-slim
 
 LABEL version="1.0.3"
 LABEL repository="https://github.com/sma11black/hexo-action"
